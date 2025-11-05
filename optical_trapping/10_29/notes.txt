@@ -1,0 +1,14 @@
+10-29-25:
+took data for 1 micron floating
+accidentally started at only saving 1 second, took lots of points, but definitely at end there were multiple beads. not sure at what point
+
+released those and retrapping
+
+going 10 micron down everytime to pull the bead t o the middle of teh water column
+
+
+at 11:07am, lost and retrapped
+
+laser analysis - has an offset of like 60? so 60 mA is 0 power or osmethighn
+
+for calibration, fit to line and get something of deflection vs laserpower 
